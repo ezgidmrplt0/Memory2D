@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GirisSahnesi.unity
+    guid: 345794b2488a8eb4bb3c4c56e58dba62
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 49fe7a9752168d445bd33d1159ed6d5c
+  m_configObjects: {}
